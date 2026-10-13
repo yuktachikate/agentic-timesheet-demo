@@ -1,0 +1,12 @@
+{
+  "name": "agentic-timesheet-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Timesheet reconciliation: a four-stage agentic systems case study",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "*"
+  }
+}
